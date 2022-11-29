@@ -1,0 +1,223 @@
+{
+  "colors": {
+    "dark_mode": {
+      "app_bar": {
+        "appbarBackground": "#E9EDF2"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": " #E9EDF2",
+        "scaffoldBackgroundColor": " #E9EDF2"
+      },
+      "divider": {
+        "dividerColor": "#C2C2C2"
+      },
+      "fonts": {
+        "fontBlackColor": "#000000",
+        "fontWhiteColor": "#Ffffff",
+        "fontRedColor": "#DB1A1A",
+        "fontGrey1Color": "#EDF1F5",
+        "fontGrey2Color": "#3A4C70",
+        "fontGrey3Color": "#C2C2C2",
+        "fontOrangeColor": "#E87030",
+        "fontBoldOrangeColor": "#EF3C3A",
+        "fontBlueColor": "#4746BD",
+        "fontCyanColor": "#55C8FF"
+
+      },
+      "card_background": {
+        "cardBlackColor": "#000000",
+        "cardWhiteColor": "#FFFFFF",
+        "cardGrey1Color": "#EDF1F5",
+        "cardGrey2Color": "#3A4C70",
+        "cardGrey3Color": "#C2C2C2",
+        "cardGreenColor": "#34a05f",
+        "cardSamyGrey": "#F5F6F8",
+        "cardOrangeColor": "#E87030",
+        "cardBoldOrangeColor": "#EF3C3A",
+        "cardBlueColor": "#4746BD",
+        "cardCyanColor": "#55C8FF"
+
+
+      },
+      "buttons": {
+        "buttonGreenColor": "#34a05f",
+        "buttonBlackColor": "#000000",
+        "buttonWhiteColor": "#Ffffff",
+        "buttonGrey1Color": "#EDF1F5",
+        "buttonGrey2Color": "#3A4C70",
+        "buttonGrey3Color": "#C2C2C2",
+        "buttonOrangeColor": "#E87030",
+        "buttonBoldOrangeColor": "#EF3C3A",
+        "buttonBlueColor": "#4746BD",
+        "buttonCyanColor": "#55C8FF"
+
+      },
+      "icons": {
+        "iconBlackColor": "#000000",
+        "iconWhiteColor": "#Ffffff",
+        "iconGreyColor": "#EDF1F5",
+        "iconGrey2Color": "#3A4C70",
+        "iconGrey3Color": "#C2C2C2",
+        "iconGreenColor": "#34a05f",
+        "iconYellowColor": "#F6B703",
+        "iconRedColor": "#DB1A1A",
+        "iconOrangeColor": "#E87030",
+        "iconBoldOrangeColor": "#EF3C3A",
+        "iconBlueColor": "#4746BD",
+        "iconCyanColor": "#55C8FF"
+
+      },
+      "loading": {
+        "loadingBlackColor": "#000000",
+        "loadingWhiteColor": "#F9FBFA",
+        "loadingGreyColor": "#EDF1F5",
+        "loadingGreenColor": "#34a05f",
+        "loadingOrangeColor": "#E87030",
+        "loadingBoldOrangeColor": "#EF3C3A",
+        "loadingBlueColor": "#4746BD",
+        "loadingCyanColor": "#55C8FF"
+
+      },
+      "main_colors": {
+        "mainOrangeColor": "#E87030",
+        "mainBoldOrangeColor": "#EF3C3A",
+        "mainBlueColor": "#4746BD",
+        "mainCyanColor": "#55C8FF"
+      },
+      "progress_colors": {
+        "progressLABNYColor": "#E87030",
+        "progressYellowColor": "#f0f5f3",
+        "progressBoldGreenColor": "#03663E",
+        "progressBoldBlueColor": "#03663E",
+        "progressRedColor": "#03663E",
+        "progressBANFSGColor": "#03663E"
+      },
+      "social_colors": {
+        "socialEmailColor": "#E87030",
+        "socialFacebookColor": "#3b5998",
+        "socialLinkedInColor": "#0077b5",
+        "socialTwitterColor": "#55acee",
+        "socialInstagramColor": "#3f729b",
+        "socialWhatsappColor": "#43d854"
+      }
+    },
+
+    "light_mode": {
+      "app_bar": {
+        "appbarBackground": "#E9EDF2"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": " #E9EDF2",
+        "scaffoldBackgroundColor": " #E9EDF2"
+      },
+      "divider": {
+        "dividerColor": "#C2C2C2"
+      },
+      "fonts": {
+        "fontBlackColor": "#000000",
+        "fontWhiteColor": "#Ffffff",
+        "fontRedColor": "#DB1A1A",
+        "fontGrey1Color": "#EDF1F5",
+        "fontGrey2Color": "#3A4C70",
+        "fontGrey3Color": "#C2C2C2",
+        "fontOrangeColor": "#E87030",
+        "fontBoldOrangeColor": "#EF3C3A",
+        "fontBlueColor": "#4746BD",
+        "fontCyanColor": "#55C8FF"
+
+      },
+      "card_background": {
+        "cardBlackColor": "#000000",
+        "cardWhiteColor": "#FFFFFF",
+        "cardGrey1Color": "#EDF1F5",
+        "cardGrey2Color": "#3A4C70",
+        "cardGrey3Color": "#C2C2C2",
+        "cardGreenColor": "#34a05f",
+        "cardSamyGrey": "#F5F6F8",
+        "cardOrangeColor": "#E87030",
+        "cardBoldOrangeColor": "#EF3C3A",
+        "cardBlueColor": "#4746BD",
+        "cardCyanColor": "#55C8FF"
+
+
+      },
+      "buttons": {
+        "buttonGreenColor": "#34a05f",
+        "buttonBlackColor": "#000000",
+        "buttonWhiteColor": "#Ffffff",
+        "buttonGrey1Color": "#EDF1F5",
+        "buttonGrey2Color": "#3A4C70",
+        "buttonGrey3Color": "#C2C2C2",
+        "buttonOrangeColor": "#E87030",
+        "buttonBoldOrangeColor": "#EF3C3A",
+        "buttonBlueColor": "#4746BD",
+        "buttonCyanColor": "#55C8FF"
+
+      },
+      "icons": {
+        "iconBlackColor": "#000000",
+        "iconWhiteColor": "#Ffffff",
+        "iconGreyColor": "#EDF1F5",
+        "iconGrey2Color": "#3A4C70",
+        "iconGrey3Color": "#C2C2C2",
+        "iconGreenColor": "#34a05f",
+        "iconYellowColor": "#F6B703",
+        "iconRedColor": "#DB1A1A",
+        "iconOrangeColor": "#E87030",
+        "iconBoldOrangeColor": "#EF3C3A",
+        "iconBlueColor": "#4746BD",
+        "iconCyanColor": "#55C8FF"
+
+      },
+      "loading": {
+        "loadingBlackColor": "#000000",
+        "loadingWhiteColor": "#F9FBFA",
+        "loadingGreyColor": "#EDF1F5",
+        "loadingGreenColor": "#34a05f",
+        "loadingOrangeColor": "#E87030",
+        "loadingBoldOrangeColor": "#EF3C3A",
+        "loadingBlueColor": "#4746BD",
+        "loadingCyanColor": "#55C8FF"
+
+      },
+      "main_colors": {
+        "mainOrangeColor": "#E87030",
+        "mainBoldOrangeColor": "#EF3C3A",
+        "mainBlueColor": "#4746BD",
+        "mainCyanColor": "#55C8FF"
+      },
+      "progress_colors": {
+        "progressLABNYColor": "#E87030",
+        "progressYellowColor": "#f0f5f3",
+        "progressBoldGreenColor": "#03663E",
+        "progressBoldBlueColor": "#03663E",
+        "progressRedColor": "#03663E",
+        "progressBANFSGColor": "#03663E"
+      },
+      "social_colors": {
+        "socialEmailColor": "#E87030",
+        "socialFacebookColor": "#3b5998",
+        "socialLinkedInColor": "#0077b5",
+        "socialTwitterColor": "#55acee",
+        "socialInstagramColor": "#3f729b",
+        "socialWhatsappColor": "#43d854"
+      }
+    }
+  },
+
+  "fontSize":[
+    {
+      "font_size_name": "small",
+      "font_size_id": 1
+    },
+    {
+      "font_size_name": "medium",
+      "font_size_id": 2
+    },
+    {
+      "font_size_name": "large",
+      "font_size_id": 3
+    }
+  ]
+
+}
