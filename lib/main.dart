@@ -89,7 +89,7 @@ class _IslamPortfolioState extends State<IslamPortfolio> with WidgetsBindingObse
       if (kDebugMode) {
         print('on reswrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr');
       }
-      WidgetsBinding.instance!.addPostFrameCallback((_)async{
+      WidgetsBinding.instance.addPostFrameCallback((_)async{
         if(mounted){
 
         }
@@ -110,10 +110,10 @@ class _IslamPortfolioState extends State<IslamPortfolio> with WidgetsBindingObse
 
   @override
   void initState(){
-    WidgetsBinding.instance!.addObserver(this);
+    WidgetsBinding.instance.addObserver(this);
 
     /// local notifications handle
-    WidgetsBinding.instance!.addPostFrameCallback((_)async{
+    WidgetsBinding.instance.addPostFrameCallback((_)async{
       if(mounted){
         GeneratePublicProviders.generatePublicProvidersOnLunch(context: context);
       }
@@ -125,7 +125,7 @@ class _IslamPortfolioState extends State<IslamPortfolio> with WidgetsBindingObse
 
   @override
   void dispose() {
-    WidgetsBinding.instance!.removeObserver(this);
+    WidgetsBinding.instance.removeObserver(this);
     super.dispose();
   }
 
